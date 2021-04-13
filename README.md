@@ -6,3 +6,5 @@ Bootcamp desenvolvido pela Digital Innovation One, com o objetivo de ensinar cri
 Esse Bootcamp foi desenvolvido com a seguinte tecnologia:
 
 - Kotlin
+- MVVM
+- Retrofit
