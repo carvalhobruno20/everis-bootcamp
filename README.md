@@ -3,6 +3,6 @@ Bootcamp desenvolvido pela Digital Innovation One, com o objetivo de ensinar cri
 
 ## 🚀 Tecnologias
 
-Esse Bootcamp foi desenvolvido com as seguintes tecnologia:
+Esse Bootcamp foi desenvolvido com a seguinte tecnologia:
 
 - Kotlin
